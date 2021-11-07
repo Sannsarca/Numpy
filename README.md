@@ -1,2 +1,2 @@
 # Numpy
-My personal guide and cheat sheet
+My projects created with NumPy
